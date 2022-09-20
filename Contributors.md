@@ -54,6 +54,7 @@
 - [Will Braun] (https://github.com/willbraun)
 - [Terrell Hayward] (https://github.com/tjh488)
 - [Himjyoti](https://github.com/HimRock1)
+- [Harsh Singla] (https://github.com/harshsingla-devops)
 - [katdotfasta](https://github.com/katdotfasta)
 - [Hyun Sung Cho](https://github.com/hcho774)
 - [Devon Offutt](https://github.com/D-H0f)
@@ -69,6 +70,7 @@
 - [Bugz](https://github.com/bugz8)
 - [Romeo](https://github.com/PhyoThantKo123)
 - [afshintek](https://github.com/afshintek)
+- [ShawnSargent](https://github.cpm/ShawnSargent)
 - [mfbevan](https://github.com/mfbevan)
 - [Vikash](https://github.com/VikashTudu)
 - [Rizel](https://github.com/blackgirlbytes)
@@ -2869,6 +2871,7 @@
 - [Alberto Pabón](https://github.com/pabon-alberto)
 - [Eleonore Bivaud](https://github.com/EleonoreBivo)
 - [MohammadJavad Moshiri](https://github.com/mjmoshiri)
+- [Ayham Huq]
 - [Aditya Verma](https://github.com/Addy2408)
 - [Vipul Agrawal](https://github.com/vipulagr890)
 - [Okolo Arthur](https://github.com/OkoloArt)
