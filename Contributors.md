@@ -1091,7 +1091,7 @@
 - [Ojonuba Jeremiah](https://www.github.com/spartan124)
 - [CyOfficial](https://github.com/CyOfficial)
 - [Kasab Mohammed Imran](https://github.com/mohammedimrank)
-- [Manosrija Nasrin] (https://github.com/manosrija-nasrin)
+- [Manosrija Nasrin](https://github.com/manosrija-nasrin)
 - [Youngtechie](https://github.com/Youngtechie)
 - [Prathamesh Kirad](https://github.com/Prathamesh-V-Kirad)
 - [neuralpain](https://github.com/neuralpain)
